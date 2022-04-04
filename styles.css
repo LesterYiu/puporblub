@@ -16,7 +16,6 @@ body{
     font-weight:400;
     font-family: 'Poppins', sans-serif;
     background-color:#211522;
-    margin:40px;
     color:#d3b1c2;
 }
 
@@ -54,7 +53,10 @@ p{
     display:none;
 }
 /* Home page */
-    
+    .home{
+        min-height:100vh;
+    }    
+
     section{
         background-color:#613659;
         display:flex;
