@@ -152,3 +152,12 @@ p{
         margin:25px;
     }
 
+    .questionOne,
+    .questionTwo,
+    .questionThree,
+    .questionFour,
+    .questionFive,
+    .ending{
+        min-height:100vh;
+    }
+
